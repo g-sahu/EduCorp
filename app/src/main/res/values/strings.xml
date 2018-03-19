@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EduCorp</string>
+    <string name="company_name">RangDe</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="register">Register</string>
+    <string name="register_text">Not a member? Register here.</string>
+    <string name="login_text">Already a member? Login here.</string>
+    <string name="account_type">Account Type</string>
+    <string name="parent">Parent</string>
+    <string name="teacher">Teacher</string>
+    <string name="name">Name</string>
+    <string name="view_profile">View Profile</string>
+    <string name="view_events">View Events</string>
+
+    <string name="login_url">http://hackerearth.0x10.info/api/educorp/auth?query=login&amp;type=%1$d&amp;email=%2$s&amp;password=%3$s</string>
+    <string name="register_url">http://hackerearth.0x10.info/api/educorp/auth?query=register&amp;name=%1$s&amp;email=%2$s&amp;password=%3$s&amp;type=%4$d</string>
+    <string name="get_profile_url">https://hackerearth.0x10.info/api/educorp/profile?query=list&amp;api_key=%1$s</string>
+
+</resources>
+
